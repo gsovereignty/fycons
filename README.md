@@ -9,5 +9,6 @@ Then simply import the library and start using it, for example:
 ```
 import "github.com/gazhayes/fycons"
 
-tabitem := widget.NewTabItemWithIcon("Settings", fycons.Regular_cogs, settingsPage()),
+tabitem := widget.NewTabItemWithIcon("Settings", fycons.Regular_cogs, settingsPage())
+```
 
