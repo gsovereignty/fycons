@@ -36,3 +36,6 @@ If there is a `-` in the Font Awesome icon name, it is exported here without thi
 
 #### White Icons
 In addition, there is a 5th set of icons included in this package: it is the `regular` icon set from above, but is rendered in white instead of the original black. These are available as `fycons.White_x` and can be used with any icon names [here](https://fontawesome.com/icons?d=gallery&s=regular).
+
+#### Todo
+This library currently provides a `Resource` type object which does not reflect changes to the current theme (dark/light). I'll update this to instead provide a `ThemedResource` so that the colour of the icons are automagically changed based on the theme's IconColor.
