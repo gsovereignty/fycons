@@ -1,3 +1,3 @@
-module github.com/gazhayes/fyne-icons
+module github.com/gazhayes/fycons
 
 go 1.14

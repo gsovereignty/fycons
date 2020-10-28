@@ -23,8 +23,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brands.go" beforeDir="false" afterPath="$PROJECT_DIR$/brands.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/duotone.go" beforeDir="false" afterPath="$PROJECT_DIR$/duotone.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/light.go" beforeDir="false" afterPath="$PROJECT_DIR$/light.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/regular.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solid.go" beforeDir="false" afterPath="$PROJECT_DIR$/solid.go" afterDir="false" />
     </list>
