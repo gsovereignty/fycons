@@ -1,4 +1,4 @@
-# fyne-icons
+# fycons
 
 ### Font Awesome icons for Fyne
 #### Usage
