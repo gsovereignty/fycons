@@ -24,11 +24,11 @@ Font Awesome includes 4 different styles of icons:
 
 All of these icons are available and are exported as follows:
 
-`fycons.Duotone_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=duotone)
-`fycons.Light_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=light)
-`fycons.Regular_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=regular)
-`fycons.Solid_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=solid)
-`fycons.Brands_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=brands)
+`fycons.Duotone_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=duotone)   
+`fycons.Light_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=light)   
+`fycons.Regular_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=regular)   
+`fycons.Solid_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=solid)   
+`fycons.Brands_x` [Available icons](https://fontawesome.com/icons?d=gallery&s=brands)   
 
 Simply replace the `x` with the name of the icon.
 
