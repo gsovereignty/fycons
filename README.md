@@ -13,7 +13,14 @@ tabitem := widget.NewTabItemWithIcon("Settings", fycons.Regular_cogs, settingsPa
 ```
 
 #### Finding the right icons
-There are three different styles of icons: duotone, light, regular, solid. These are exported as `Duotone_x` where `x` is the Font Awesome name for the icon.
+There are five different styles of icons: 
+1. duotone, 
+2. light, 
+3. regular, 
+4. solid, and
+5. white (this is `regular` but renders white instead of black).
+
+These are exported as `Duotone_x` where `x` is the Font Awesome name for the icon.
 
 For example, `fas fa-blind` is exported as `Solid_blind` (fas = font awesome solid).  
 
